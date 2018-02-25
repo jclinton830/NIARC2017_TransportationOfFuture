@@ -1,0 +1,11 @@
+[My Computer]
+My Computer="localhost"
+
+[NI-myRIO-1900-030e1fe9]
+NI-myRIO-1900-030e1fe9="10.0.2.10"
+
+[NI-myRIO-1900-Marketing]
+NI-myRIO-1900-Marketing="10.0.2.11"
+
+[RT myRIO-1900-Marketing2]
+RT myRIO-1900-Marketing2="10.0.2.13"
